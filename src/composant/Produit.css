@@ -1,0 +1,23 @@
+.produit {
+    display: block;
+    justify-content: space-between;
+};
+.produit2{
+    float: left;
+    padding: 10px;
+    width: 30%;
+    background-color: rgb(255, 124, 124);
+    margin-left: auto;
+};
+.produit3{
+    list-style-type: none;
+    padding: 0px;
+    font-size: 15px;
+};
+.bbm{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
